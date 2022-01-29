@@ -1,8 +1,11 @@
-body {
-    font-family: 'Times New Roman', Times, serif;
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Oswald&display=swap');
+
+*  {
+    margin: 0;
+    padding: 0;
+    border: none;
 }
-h2 {
-   
-    font-size: 40px;
-    color: blue;
+body {
+    font-family: 'Comforter', cursive;
+    font-weight: 300;
 }
