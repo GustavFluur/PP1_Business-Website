@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Comforter&family=Oswald&display=swap');
 
-*  {
+* {
     margin: 0;
     padding: 0;
     border: none;
@@ -15,10 +15,10 @@ body {
 
 
 h1, h2 {
-      font-family: 'Comforter', cursive;
-      text-transform: uppercase;
-      letter-spacing: 4px;
-      color:#252525
+    font-family: 'Comforter', cursive;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525
 }
 
 #logo {
