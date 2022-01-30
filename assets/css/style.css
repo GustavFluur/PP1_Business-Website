@@ -24,33 +24,39 @@ ul {
 
 #logo {
         float: left;
-        font-size: 140px;
+        font-size: 125px;
 }
 
 #menu {
-    font-size: 15px;
-    float: right;
-    letter-spacing: 5px;
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+#menu, #logo {
+    line-height: 95px;
 }
 
 #menu li {
-
-        display: inline-block;
-        color: aliceblue;
-        width: 100px;
-        text-align: center;
-        margin-right: 5px; 
-}
-menu a {
-        text-decoration: none;
-        color:inherit;
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
 }
 
-menu:hover {
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
     border-bottom: 1px solid red;
 }
 
 .active {
-    border-bottom: 1px solid #0000ff;
+    border-bottom: 1px solid red;
 }
 
+#web-studio {
+    height: 850px;
+    width: 100%;
+    background: url('../images/web-studio.hompage.jpeg') no-repeat center center;
+}
