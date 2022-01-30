@@ -16,6 +16,17 @@ h1, h2 {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 4px;
+    font-size: 50px;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
+p {
+    text-align: center;
 }
 
 ul {
@@ -63,5 +74,30 @@ ul {
 }
 
 #business-ethos {
+    height: 800px;
+}
+
+#ethos-title {
+    text-align: center;
+    width: 40px;
+    height: 40px;
+}
+
+#ethos-image {
     height: 1000px;
+    width: 100%;
+    padding-left: 100px;
+    background: url(../images/ethos-image.jpeg) no-repeat center center;
+    background-color: black;
+}
+
+.left-about-heading {
+    width: 60%;
+    float: left;
+    line-height: 40px;
+    clear: right;
+    margin-bottom: 50px;
+    color: black;
+    text-align: left;
+
 }
