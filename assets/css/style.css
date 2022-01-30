@@ -22,14 +22,6 @@ ul {
     list-style-type: none; 
 }
 
-ul li {
-        display: inline-block;
-        color: aliceblue;
-        width: 100px;
-        text-align: center;
-        margin-right: 5px;
-    }
-
 #logo {
         float: left;
         font-size: 140px;
@@ -39,5 +31,26 @@ ul li {
     font-size: 15px;
     float: right;
     letter-spacing: 5px;
+}
+
+#menu li {
+
+        display: inline-block;
+        color: aliceblue;
+        width: 100px;
+        text-align: center;
+        margin-right: 5px; 
+}
+menu a {
+        text-decoration: none;
+        color:inherit;
+}
+
+menu:hover {
+    border-bottom: 1px solid red;
+}
+
+.active {
+    border-bottom: 1px solid #0000ff;
 }
 
