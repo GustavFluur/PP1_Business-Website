@@ -25,8 +25,16 @@ h3 {
     font-size: 25px;
 }
 
+h4 {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+}
+
 p {
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
 }
 
 ul {
@@ -99,5 +107,17 @@ ul {
     margin-bottom: 50px;
     color: black;
     text-align: left;
+}
+
+#about {
+    text-align: center;
+    margin-top: 5px; 
+}
+
+#mission {
+
+}
+
+#vision {
 
 }
