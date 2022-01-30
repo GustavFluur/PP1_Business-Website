@@ -45,6 +45,12 @@ ul {
         float: left;
         font-size: 125px;
 }
+#logo-service {
+    float: left;
+    font-size: 100px;
+}
+
+    
 
 #menu {
     font-size: 20px;
@@ -53,7 +59,7 @@ ul {
 }
 
 
-#menu, #logo {
+#menu, #logo, #logo-service  {
     line-height: 95px;
 }
 
@@ -92,6 +98,10 @@ ul {
     height: 800px;
 }
 
+#services-category {
+    height: 300px;
+}
+
 #ethos-title {
     text-align: center;
     width: 40px;
@@ -104,6 +114,13 @@ ul {
     padding-left: 100px;
     background: url(../images/ethos-image.jpeg) no-repeat center center;
     background-color: black;
+}
+
+#services-image {
+    height: 1000px;
+    width: 100%;
+    align-self: auto;
+    background: url(../images/services-image.jpeg) no-repeat center center;
 }
 
 .left-about-heading {
@@ -121,17 +138,32 @@ ul {
     margin-top: 5px; 
 }
 
-#seo {
-
-    text-align: left;
-    padding-left: 5px;
-    margin-left: 5px;
-    float: left;
+.seo {
+    width: 50%;
+    float: none;
+    line-height: 40px;
+    clear: right;
+    margin-bottom: 50px;
+    color: black;
+    text-align: right;
 }
 
-h5 {
-    text-align: left;
-    padding-left: 5px;
-    margin-left: 5px;
-    float: left;
+.digital-marketing {
+    width: 50%;
+    float: none;
+    line-height: 40px;
+    clear: right;
+    margin-bottom: 50px;
+    color: black;
+    text-align: right;
+}
+
+.business-dev {
+    width: 50%;
+    float: none;
+    line-height: 40px;
+    clear: right;
+    margin-bottom: 50px;
+    color: black;
+    text-align: right;
 }
