@@ -27,9 +27,17 @@ ul li {
         color: aliceblue;
         width: 100px;
         text-align: center;
+        margin-right: 5px;
     }
 
 #logo {
         float: left;
-        font-size: 150px;
+        font-size: 140px;
 }
+
+#menu {
+    font-size: 15px;
+    float: right;
+    letter-spacing: 5px;
+}
+
