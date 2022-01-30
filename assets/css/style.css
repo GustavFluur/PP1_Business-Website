@@ -11,10 +11,25 @@ body {
     font-weight: 300;
 }
 
-h1 {
+h1, h2 {
     color: rosybrown;
     text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+ul {
+    list-style-type: none; 
+}
+
+ul li {
+        display: inline-block;
+        color: aliceblue;
+        width: 100px;
+        text-align: center;
+    }
 
 #logo {
-
+        float: left;
+        font-size: 150px;
 }
