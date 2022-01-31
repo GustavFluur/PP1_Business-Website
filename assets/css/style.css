@@ -167,3 +167,38 @@ ul {
     color: black;
     text-align: right;
 }
+
+#last-section {
+    background-color: black;
+    height: 5px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media > li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 160%;
+    margin: 1px;
+    padding: 20px;
+    color:rosybrown;
+}
+
+.contact-section {
+        clear: left;
+        height: 900px;
+}
+
+.contact-section li {
+    float: left;
+}
+
+#contact-image {
+    height: 850px;
+    width: 100%;
+    
+}
