@@ -222,7 +222,7 @@ ul {
     left: 10%;
     padding: 30px;
 }
-*/
+
 .signup-form h2 {
    color: rosybrown;
    margin-bottom: 20px;
@@ -242,7 +242,7 @@ ul {
    border: 1px solid red; 
    border-radius: 2px;
 }
-*/
+
 .text-input:hover {
    border-color:#f16c6b;
 }
