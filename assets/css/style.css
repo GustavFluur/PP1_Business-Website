@@ -136,48 +136,13 @@ ul {
 
 }
 
-@media screen and (max-width: 1200px) {
-   
-    #business-ethos {
-        height: 800px;
-        text-align: center;
-        margin: 50px 50px 50px 50px;
-    }
-    
-    #services-category {
-        height: 300px;
-    }
-    
-    #ethos-title {
-        text-align: center;
-        width: 40px;
-        height: 40px;
-    }
-    
-    #ethos-image {
-        height: 1000px;
-        width: 100%;
-        padding-left: 100px;
-        background: url(../images/ethos-image.jpeg) no-repeat center center;
-        background-color: black;
-    }
-    
-    #services-image {
-        height: 1000px;
-        width: 100%;
-        align-self: auto;
-        background: url(../images/services-image.jpeg) no-repeat center center;
-    }
-    
-    .left-about-heading {
-        width: 60%;
+@media screen and (max-width: 950px){
+    #menu {
+        clear: left;
         float: left;
-        line-height: 40px;
-        clear: right;
-        margin-bottom: 50px;
-        color: black;
-        text-align: left;
-    
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
     }
 }
 
