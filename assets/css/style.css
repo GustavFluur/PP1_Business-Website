@@ -145,8 +145,74 @@ ul {
         line-height: 25px;
     }
 
-    
+    #logo {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+        font-size: 45px;
+    }
+
+    #logo h1 {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+        font-size: 45px;
+    }
+
+    #business-ethos {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .left-about-heading, #about {
+        width: inherit;
+
+    }
+
+    .left-about-heading h3, #about h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    #about h4, .left-about-heading h4{
+        text-align: center;
+        padding: 0 20 px;
+    }
+
+
+    /* #web-studio {
+        width: 90%;
+        height: 1200px;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        margin: 0 auto;
+    } */
+
+    #web-studio {
+        clear: both;
+        float: both;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #ethos-image {
+        clear:both;
+        float: both;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+
+    }
+
+
 }
+
 
 #about {
     text-align: center;
