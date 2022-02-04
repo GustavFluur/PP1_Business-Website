@@ -270,7 +270,7 @@ ul {
         margin-bottom: 50px;
         color: black;
         text-align: center;
-        font-size: 18px;;
+        font-size: 18px;
     }
     .seo  h4{
         width: 100%;
@@ -358,7 +358,7 @@ ul {
         padding: 0;
     }
 
-    signup-form h2 {
+    .signup-form h2 {
         color: rosybrown;
         margin-bottom: 20px;
      }
