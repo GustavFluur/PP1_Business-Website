@@ -65,8 +65,9 @@ ul {
 #menu {
     font-size: 20px;
     letter-spacing: 4px;
-    color: red;
-    text-shadow: 2px 2px 4px #000000;
+    color: rgb(250, 128, 114);
+    text-decoration: solid;
+    text-shadow: 2px 2px 4px royalblue;
 }
 
 
@@ -150,7 +151,12 @@ ul {
     text-align: center;
     margin-top: 5px; 
 }
-
+#services-category {
+    width: 100%;
+    height: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
 .seo {
     width: 100%;
     float: none;
@@ -159,6 +165,7 @@ ul {
     margin-bottom: 50px;
     color: black;
     text-align: center;
+    text-decoration: solid;
 }
 
 .digital-marketing {
@@ -168,7 +175,8 @@ ul {
     clear: right;
     margin-bottom: 50px;
     color: black;
-    text-align: right;
+    text-align: center;
+    text-decoration: solid;
 }
 
 .business-dev {
@@ -178,7 +186,8 @@ ul {
     clear: right;
     margin-bottom: 50px;
     color: black;
-    text-align: right;
+    text-align: center;
+    text-decoration: solid;
 }
 
 #last-section {
@@ -223,24 +232,27 @@ ul {
 }
 
 .signup-form {
-    margin: 150px 10% 0 0;
+    margin: 150px 0% 0 0;
     color: rosybrown;
     background-color:black;
-    max-width: 400px;
-    max-height: 800px;
+    max-width: 100%;
+    max-height: 1500px;
     position: absolute;
-    left: 10%;
-    padding: 30px;
+    left: 28%;
+    padding: 0;
+    text-align: center;
 }
 
 .signup-form h2 {
    color: rosybrown;
-   margin-bottom: 20px;
+   margin-bottom: 35px;
+   text-align: center;
 }
 
 .signup-form h4 {
     color: rosybrown;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
+    text-align: center;
  }
 
 .text-input {
@@ -385,15 +397,20 @@ ul {
 
     #services-category {
         width: 100%;
-        height: 600px;
+        height: 500px;
         margin: 0 auto;
+        line-height: 20px;
+        clear: right;
+        margin-bottom: 50px;
+        color: black;
+        text-align: center;
     }
 
     #services-image {
         width: 100%;
         clear: both;
         padding: 0;
-        height: 800px;
+        height: 500px;
         margin-left: 30px;
         margin-bottom: 20px;
         margin: 0 auto;
@@ -436,15 +453,23 @@ ul {
         float: none;
         line-height: 20px;
         clear: right;
-        margin-bottom: 50px;
+        margin-bottom: 60px;
         color: black;
         text-align: center;
         font-size: 15px;
     }
 
+    .digital-marketing i {
+        line-height: 20px;
+        clear: right;
+        margin-top: 20px;
+        text-align: center;
+
+    }
+
     .business-dev {
         width: 100%;
-        float: none;
+        float: left;
         line-height: 20px;
         clear: right;
         margin-bottom: 50px;
@@ -480,16 +505,16 @@ ul {
         text-align: center;
 }
 
-.interesting h2 {
-    width: 100%;
+    .interesting h2 {
+        width: 100%;
         text-align: center;
         font-size: 15px;
-}
-.interesting h4 {
+    }
+    .interesting h4 {
     text-align: center;
         padding: 0 20 px;
         font-size: 10px;
-}
+    }
     .signup-form {
         margin: 95px 0% 0 0;
         color: rosybrown;
