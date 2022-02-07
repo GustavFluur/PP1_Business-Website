@@ -491,26 +491,27 @@ ul {
         font-size: 10px;
 }
     .signup-form {
-        margin: 95px 5% 5% 5%;
+        margin: 95px 0% 0 0;
         color: rosybrown;
         background-color:black;
-        max-width: 100px;
-        max-height: 200px;
+        max-width: 100%;
+        max-height: 600px;
         position: absolute;
         left: 5%;
         padding: 0;
+        text-align: center;
     }
 
     .signup-form h2 {
         color: rosybrown;
         margin-bottom: 20px;
-        font-size: 15px;
+        font-size: 18px;
      }
      
      .signup-form h4 {
          color: rosybrown;
          margin-bottom: 20px;
-         font-size: 12px;
+         font-size: 15px;
       }
      
      .text-input {
@@ -536,7 +537,7 @@ ul {
          border-radius: 2px;
          padding-left: 1%;
          text-align: center;
-         font-size: 15px;
+         font-size: 12px;
          background-color:rosybrown;
          color: black;
          display: block;
