@@ -545,6 +545,11 @@ ul {
         background-size: cover;
     }
 
+    #footer {
+        font-size: 80px;
+        width: 100%;
+    }
+
     .contact-section {
         clear: both;
         height: 750px;
