@@ -17,6 +17,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 4px;
     font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h2 {
@@ -25,24 +26,21 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h3 {
     color: black;
     text-align: center;
     font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h4 {
     color: black;
     text-align: center;
     font-size: 18px;
-}
-
-p {
-    text-align: center;
     font-family: 'Times New Roman', Times, serif;
-
 }
 
 ul {
@@ -163,6 +161,7 @@ header {
     line-height: 40px;
     clear: right;
     margin-bottom: 50px;
+    margin-top: 50px;
     color: black;
     text-align: center;
     text-decoration: solid;
@@ -306,6 +305,8 @@ header {
 #visit {
     background-color: rosybrown;
     text-align: center;
+    width: 100%;
+    height: auto;
 }
 
 #visit div {
@@ -319,6 +320,7 @@ text-align: center;
 #visit h2 {
     color: #000000;
     margin-bottom: 5px;
+    text-align: center;
 }
 
 .contact-details h3{
@@ -417,7 +419,7 @@ margin-bottom: 5px;
     header {
             width: 100% auto;
             clear: both; 
-            height: 1200px auto; 
+            height: 1500px; 
             padding: 0; 
             background-size: cover; 
             float: inherit;
