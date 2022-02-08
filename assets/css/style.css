@@ -71,10 +71,6 @@ ul {
 }
 
 
-/* #menu, #logo, #logo-service  {
-    line-height: 95px;
-} */
-
 #menu li {
     float: right;
     list-style-type: none;
@@ -307,14 +303,31 @@ header {
     margin-left: 20px;
 }
 
-.visit h3{
-        background-color: rosybrown;
-        
-
+#visit {
+    background-color: rosybrown;
+    text-align: center;
 }
 
-.visit h5 {
-    background-color: rosybrown;
+#visit div {
+color: #000000;
+background-color: rosybrown;
+width: 100%;
+height: auto;
+text-align: center;
+}
+
+#visit h2 {
+    color: #000000;
+    margin-bottom: 5px;
+}
+
+.contact-details h3{
+color: black;
+margin-bottom: 5px;
+        
+}
+
+.contact-details h5 {
     text-align: center;
     list-style-type: none;
     display: block;
