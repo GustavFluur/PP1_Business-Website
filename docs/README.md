@@ -59,6 +59,31 @@ Underneath the business ethos section, it states About, Mission, and Vision:
 
 - Each platform represents different way of business communication and speaks to the audience differently. AAs well as the purpose is as mentioned to create each page differently and be eye-catching for the user.
 
-
 ![Social Media 2](/docs/images/footer-big.png)
 ![Social Media 3](/docs/images/footer-contact.png)
+
+# Services logo
+
+ - The background image remains the same - expect for the brand name. What it does it give sense of new characteristic to the design. 
+
+ - It provides the user a new way of navigation and familiarity by knowing that you are on the same website as previous page represented. 
+
+![Services-logo](/docs/images/services-logo.png)
+
+# Services
+
+- Services are being detailedly described what they are and how it can be offered for the client's business. It's the most vital page due to what it says it does for potential business owner and it as well says what the organization's purpose. 
+
+- They utterly outlined and clear for target audience to rapidly understand what it can do for them as mentioned but also to stand out for people to read on the mobile devices easily. 
+
+![Services](/docs/images/services.png)
+
+# Last Services Image
+
+- The company Stockholm Business Enhancement is located in the Swedish capital and therefore it requires an image that not only represents only the company. 
+
+- It gives a potential client to become intrigued and leads for a visit the office.
+
+![Last Service Image](/docs/images/last-image-service.png)
+
+
