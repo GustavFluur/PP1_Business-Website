@@ -52,4 +52,5 @@ Underneath the business ethos section, it states About, Mission, and Vision:
 
 - The social media content is interactive by clicking on the logos and what it does it takes you to that specific social platform.  
 
-![Social Media](/docs/images/social-media-and line.png)
+![Social Media](/docs/images/social-media.png)
+
