@@ -86,4 +86,11 @@ Underneath the business ethos section, it states About, Mission, and Vision:
 
 ![Last Service Image](/docs/images/last-image-service.png)
 
+# Contact Logo
+
+- Last logo image and it creates an orientation for the user where you are as it being displayed on the page. 
+
+- The user are able to see what pages it can return back to and assit them by clearly shown on the right hand corner. 
+
+![Contact logo](/docs/images/contact-logo.png)
 
