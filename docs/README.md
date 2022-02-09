@@ -59,8 +59,9 @@ Underneath the business ethos section, it states About, Mission, and Vision:
 
 - Each platform represents a diverse way of business communication and speaks to the audience differently. As well as the purpose is as mentioned to create each page differently and be eye-catching for the user.
 
-
+#
 ![Social Media 2](/docs/images/footer-big.png)
+#
 ![Social Media 3](/docs/images/footer-contact.png)
 
 # Services logo
@@ -118,5 +119,19 @@ Underneath the business ethos section, it states About, Mission, and Vision:
 - The reason to have this type of image is to give a sense of imagination for the clients and how well performed it will be during the meeting. In addition, sets the idea of how Stockholm Business Enhancement wants and wishes to be during the encounter. 
 
 ![Contact last image ](/docs/images/contact-last-image.png)
+
+# Features Left to Implement
+
+Underneath the ‘About’ section on the home page, it requires a stronger introduction to the services page e.g., 
+
+‘Therefore we came up with the idea of providing solutions within Search Engine Optimization (SEO), Digital Marketing and Business Development to make customers stay loyal in the time of crisis’. 
+
+In addition, a navigation link that takes you to the page directly would easily assist the user and save some time to get the detailed information it needs to clearly understand the services. 
+
+A possible change of the business ethos - and about section to create a clear message of what Stockholm Business Enhancement does for their clients. Possible addition of an entirely new page to make it even more detailed. 
+
+More media screen features of all sizes due to the logo looks very compressed and losing its standard for the potential user in some elements. Despite it working fine for many devices that people are mostly using it can be a great idea to add some more. 
+
+
 
 
