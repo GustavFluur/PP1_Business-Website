@@ -10,12 +10,24 @@ Stockholm Business Enhancement is a website that represents an organization that
 
 Once you are entering the website you are getting a clear idea of what kind it is and a sense of interest by continuing to investigate further to find out more about the organization. 
 
-## Existing Features
-
 ![Navigation & Logo](/docs/images/Navigation-Logo.png)
 
+## Navigation Bar & Logo
+#
 
-Since the target group is other organizations and their business leaders are being exposed to competitors and other information that creates a ‘noise’ that disrupts the website’s message. Therefore, it’s written in a clear and outlined text for users to understand what Stockholm Business Enhancement can offer them is essential for the website’s communication.
+- The navigation bar is consisting of three links, each of which represents a page of the specific content of information: Home page, Services, and Contact with fully responsive navigation likewise by clicking on the page’s header you’ll return back to the logo-home page. 
 
-![Navigation](/docs/images/navigation.png)
+- Thus makes it convenient and a reminder for user what website they are using thanks to logo and the background image. 
+
+- The feature support and guide the user to easily navigate themselves across the website. It’s perfectly suitable for all mobile devices and not only desktops which go align among people’s smartphone usage. 
+
+
+
+# Home page
+
+
+Since the target group is organizations and their business leaders are being exposed to competitors and other unrelevant information that creates a ‘noise’ that disrupts the website’s message. 
+
+
+- Therefore, it’s written in a clear and outlined text for users to understand what Stockholm Business Enhancement can offer them is essential for the website’s communication.
  
