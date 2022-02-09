@@ -130,8 +130,13 @@ In addition, a navigation link that takes you to the page directly would easily 
 
 A possible change of the business ethos - and about section to create a clear message of what Stockholm Business Enhancement does for their clients. Possible addition of an entirely new page to make it even more detailed. 
 
-More media screen features of all sizes due to the logo looks very compressed and losing its standard for the potential user in some elements. Despite it working fine for many devices that people are mostly using it can be a great idea to add some more. 
+# Testing 
 
+- I tested the website works on different browsers: Safari, Chrome, Brave, Firefox
 
+- I confirmed the website is repsonsititve to all screen sizes, it looks appealing and functions on all standard screen using the devtools device toolbar. 
 
+- I confirmed that the navigation, header, Home, Services and Contact text are all readable and easy to understand. 
+
+- I have confirmed that the form works: requires entries in every field, will only accept an email in the email field, and the submit button works. 
 
