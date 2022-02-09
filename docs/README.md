@@ -4,4 +4,4 @@ The website’s objective is to create a clear understanding of what Stockholm B
 
 Stockholm Business Enhancement is a website that represents an organization that supports and advises their clients to succeed in their overall operation and set up new goals for making them reach a new potential. Since society is has been forced to change due to the pandemic as well as a corporation of classes. The clients are being represented by all industries, however, the target audience is mainly small-and-midsized organizations that are having an issue within their businesses or need guidance into a new market – e.g., an international one that wishes to enter into the Swedish market and vice-versa. 
 
-# url('../images/web-studio.hompage.jpeg');
+![Responsive image](/docs/images/rep-image.png)
