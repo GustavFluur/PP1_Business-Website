@@ -16,7 +16,6 @@ Once you are entering the website you are getting a clear idea of what kind it i
 ![Navigation & Logo](/docs/images/Navigation-Logo.png)
 
 ## Navigation Bar & Logo
-#
 
 - The navigation bar is consisting of three links, each of which represents a page of the specific content of information: Home page, Services, and Contact with fully responsive navigation likewise by clicking on the page’s header you’ll return back to the logo-home page. 
 
@@ -27,14 +26,12 @@ Once you are entering the website you are getting a clear idea of what kind it i
 
 
 ## Business Ethos 
-#
 
 Since the target group is organizations and their business leaders are being exposed to competitors and other unrelevant information that creates a ‘noise’ that disrupts the website’s message. Therefore, it’s written in a clear and outlined text for users to understand what Stockholm Business Enhancement stands for is essential for the website’s communication.
 
 ![Business Ethos](/docs/images/business-ethos.png)
 
 ## About, Mission and Vision
-#
 
 Underneath the business ethos section, it states About, Mission, and Vision: 
 
@@ -46,11 +43,21 @@ Underneath the business ethos section, it states About, Mission, and Vision:
 
 ![About, Mission and Vision](/docs/images/about-section.png)
 
-# Social Media 
+# Distinguished line & Social Media
 
 - Last section of the homepage is has a clear line for making it easier for the user on what is important or differentiate between company's vison & goals to the social media content.
 
-- The social media content is interactive by clicking on the logos and what it does it takes you to that specific social platform.  
+- The social media content is interactive by clicking on the logos and what it does it takes you to that specific social platform. 
 
 ![Social Media](/docs/images/social-media.png)
 
+# Footer 
+
+- The footer is unique by being displayed differently on each page and the reason behind this is to create a call to action. 
+
+- Many organizations are communicating and using social media channels in their communication with their audience. 
+
+- Each platform represents different way of business communication and speaks to the audience differently. 
+
+![Social Media 2](/docs/images/footer-big.png)
+![Social Media 3](/docs/images/footer-contact.png)
