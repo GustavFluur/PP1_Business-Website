@@ -140,3 +140,17 @@ A possible change of the business ethos - and about section to create a clear me
 
 - I have confirmed that the form works: requires entries in every field, will only accept an email in the email field, and the submit button works. 
 
+# Bugs 
+
+#### Solved Bugs
+
+
+# Validator Testing 
+
+- HTML 
+
+
+- CSS 
+
+
+- Accessbility 
