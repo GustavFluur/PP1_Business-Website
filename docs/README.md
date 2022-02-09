@@ -26,11 +26,30 @@ Once you are entering the website you are getting a clear idea of what kind it i
 
 
 
-# Business Ethos 
+## Business Ethos 
+#
 
-Since the target group is organizations and their business leaders are being exposed to competitors and other unrelevant information that creates a ‘noise’ that disrupts the website’s message. Therefore, it’s written in a clear and outlined text for users to understand what Stockholm Business Enhancement can offer them is essential for the website’s communication.
+Since the target group is organizations and their business leaders are being exposed to competitors and other unrelevant information that creates a ‘noise’ that disrupts the website’s message. Therefore, it’s written in a clear and outlined text for users to understand what Stockholm Business Enhancement stands for is essential for the website’s communication.
 
-![Business Ethos](/)
+![Business Ethos](/docs/images/business-ethos.png)
 
+## About, Mission and Vision
+#
 
- 
+Underneath the business ethos section, it states About, Mission, and Vision: 
+
+- About - It shares the story by telling why the organization was established and make a personal attachment for the user why they should choose Stockholm Business Enhencement beneficial. 
+
+- Mission - how the daily operations appear, and what clients will expect by using services of the Stockholm Business Enhancement.
+
+- Vision - it what clearly explains what the long-term goals are for organization and also indicates a sense of transparency.  
+
+![About, Mission and Vision](/docs/images/about-section.png)
+
+# Social Media 
+
+- Last section of the homepage is has a clear line for making it easier for the user on what is important or differentiate between company's vison & goals to the social media content.
+
+- The social media content is interactive by clicking on the logos and what it does it takes you to that specific social platform.  
+
+![Social Media](/docs/images/social-media-and line.png)
