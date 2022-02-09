@@ -8,4 +8,7 @@ Stockholm Business Enhancement is a website that represents an organization that
 
 # Features
 
-Once you are entering the website you are getting a clear idea of where the navigation system is located on the page and a sense of generation of interest by continuing to investigate further by finding out more about the organization. Where services - and contacts section are stated and written in a clear and outlined text for users to understand what Stockholm Business Enhancement can offer them is essential for the website’s communication. 
+Once you are entering the website you are getting a clear idea of where the navigation system is located on the page and a sense of interest by continuing to investigate further by finding out more about the organization. 
+
+Since the target group is other organizations and their business leaders are being exposed to competitors and other information that creates a ‘noise’ that disrupts the website’s message. Therefore, it’s written in a clear and outlined text for users to understand what Stockholm Business Enhancement can offer them is essential for the website’s communication.
+ 
