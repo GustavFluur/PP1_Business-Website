@@ -32,22 +32,22 @@ Once you are entering the website you are getting a clear idea of what kind it i
 ![Business Ethos](/docs/images/business-ethos.png)
 
 ## About, Mission and Vision
-
 Underneath the business ethos section, it states About, Mission, and Vision: 
 
-- About - It shares the story by telling why the organization was established and make a personal attachment for the user why they should choose Stockholm Business Enhencement beneficial. 
+- About - It shares the story by telling why the organization was established and making a personal attachment for the user why they should choose Stockholm Business Enhancement beneficial. 
 
 - Mission - how the daily operations appear, and what clients will expect by using services of the Stockholm Business Enhancement.
 
-- Vision - it what clearly explains what the long-term goals are for organization and also indicates a sense of transparency.  
+- Vision - it clearly explains what the long-term goals are for the organization and also indicates a sense of transparency.  
+
 
 ![About, Mission and Vision](/docs/images/about-section.png)
 
 ## Distinguished line & Social Media
 
-- Last section of the homepage is has a clear line for making it easier for the user on what is important or differentiate between company's vison & goals to the social media content.
+- The last section of the homepage is has a clear line for making it easier for the user to what is important or differentiate between the company's vision & goals to the social media content.
 
-- The social media content is interactive by clicking on the logos and what it does it takes you to that specific social platform. 
+- The social media content is interactive clicking on the logos and what it does takes you to that specific social platform. 
 
 ![Social Media](/docs/images/social-media.png)
 
@@ -57,24 +57,25 @@ Underneath the business ethos section, it states About, Mission, and Vision:
 
 - Many organizations are communicating and using social media channels in their communication with their audience. 
 
-- Each platform represents different way of business communication and speaks to the audience differently. AAs well as the purpose is as mentioned to create each page differently and be eye-catching for the user.
+- Each platform represents a diverse way of business communication and speaks to the audience differently. As well as the purpose is as mentioned to create each page differently and be eye-catching for the user.
+
 
 ![Social Media 2](/docs/images/footer-big.png)
 ![Social Media 3](/docs/images/footer-contact.png)
 
 # Services logo
 
- - The background image remains the same - expect for the brand name. What it does it give sense of new characteristic to the design. 
+ - The background image remains the same - except for the brand name. What it does is give a sense of new characteristics to the design. 
 
- - It provides the user a new way of navigation and familiarity by knowing that you are on the same website as previous page represented. 
+ - It provides the user a new way of navigation and familiarity by knowing that you are on the same website as the previous page represented. 
 
 ![Services-logo](/docs/images/services-logo.png)
 
 # Services
 
-- Services are being detailedly described what they are and how it can be offered for the client's business. It's the most vital page due to what it says it does for potential business owner and it as well says what the organization's purpose. 
+- Services are being detailed described what they are and how they can be offered for the client's business. It's the most vital page due to what it says it does for potential business owners and it as well says the organization's purpose. 
 
-- They utterly outlined and clear for target audience to rapidly understand what it can do for them as mentioned but also to stand out for people to read on the mobile devices easily. 
+- They are utterly outlined and clear for the target audience to rapidly understand what it can do for them as mentioned but also to stand out for people to read on mobile devices easily. 
 
 ![Services](/docs/images/services.png)
 
@@ -82,27 +83,31 @@ Underneath the business ethos section, it states About, Mission, and Vision:
 
 - The company Stockholm Business Enhancement is located in the Swedish capital and therefore it requires an image that not only represents only the company. 
 
-- It gives a potential client to become intrigued and leads for a visit the office.
+- It gives a potential client to become intrigued and leads to a visit to the office.
 
 ![Last Service Image](/docs/images/last-image-service.png)
 
 # Contact Logo
 
-- Last logo image and it creates an orientation for the user where you are as it being displayed on the page. 
+- Last logo image and it creates an orientation for the user where you are as it is displayed on the page. 
 
-- The user are able to see what pages it can return back to and assit them by clearly shown on the right hand corner. 
+- The user is able to see what the previous pages are which makes it easy to return back to and assist them by clearly visible on the right-hand corner. 
+
 
 ![Contact logo](/docs/images/contact-logo.png)
 
 # Sign Up Form & Contact Details 
 
-- Within this image it represents two sections and also the previous mentioned footer. 
+- Within this image, it represents two sections and also the previous mentioned footer. 
 
 - The signup form has a call-to-action message and a sense of convincing one as well by making the user interested to sign up themselves to the website. 
 
+- It's easy to sign up all the details within the sign up form thanks to the interactive elements and also by clicking on the submit button it turns green (with the signing symbol beside it) -  This change of content intrigues the user and find it appealing for contacting the company. 
+
 - Likewise, they are clear details about the contact information. It's a substitute for potential customers who tend to contact businesses traditionally but is also suitable for organizations targeting approach to reach all industries. 
 
-- As is it easily to get hold of a company and not only digital it give a sincere impression and tendency to contact the company easily. 
+- As is it easier to get hold of a company and not only digital it gives a sincere impression and tendency to contact the company easily. 
+
 
 ![Sign Up Form & Contact Details](/docs/images/signup-contact.details.png)
 
