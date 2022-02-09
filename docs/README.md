@@ -57,7 +57,8 @@ Underneath the business ethos section, it states About, Mission, and Vision:
 
 - Many organizations are communicating and using social media channels in their communication with their audience. 
 
-- Each platform represents different way of business communication and speaks to the audience differently. 
+- Each platform represents different way of business communication and speaks to the audience differently. AAs well as the purpose is as mentioned to create each page differently and be eye-catching for the user.
+
 
 ![Social Media 2](/docs/images/footer-big.png)
 ![Social Media 3](/docs/images/footer-contact.png)
