@@ -155,6 +155,11 @@ A possible change of the business ethos - and about section to create a clear me
 
 - Accessbility 
 
-![Acessibility](/)
+Due to the lack of time to adjust the settings from Swedish to English it scores says in Swedish. direct translation on the relevant ones will be found here:
 
-![Acessibility](/)
+- Prestanda = Performance 
+- Tillgänglighet = Accessibility
+- Bästa Metoder = Best Practices 
+
+![Accessibility Score](/docs/images/accessiblity-score.png)
+
