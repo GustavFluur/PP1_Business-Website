@@ -6,6 +6,18 @@ Stockholm Business Enhancement is a website that represents an organization that
 
 The target audience is mainly small-and-midsized organizations that are having an issue within their businesses or need guidance into a new market – e.g., an international one that wishes to enter into the Swedish market and vice-versa. 
 
+#
+### *Disclaimer*: Some of code have been changed to do some late changes due some unexpected errors from validation and troubleshooting regarding open the website. 
+
+### Some of important structure has been lead to unfortunate loss that has lead to the website is no longer responsitive but it hasn't changed the outlook of the website. This will be changed in a short future,
+
+### Thanks for your understanding,
+
+### Your Developer,
+
+### Gustav 
+#
+
 
 ![Responsive image](/docs/images/rep-image.png)
 
@@ -174,11 +186,31 @@ As I was tested the CSS file it stated: "Too many values or values are not recog
 - Tillgänglighet = Accessibility
 - Bästa Metoder = Best Practices 
 
+*I confirmed that the colors and fonts are well chosen to easy to read and accessible by running it on lighthouse in devtools* 
+
 ![Accessibility Score](/docs/images/accessiblity-score.png)![Metrics](/docs/images/metrics.png)
 
 # Unfixed Bugs
 
+### *Disclaimer*: Some of code have been changed to do some late changes due some unexpected errors from validation and troubleshooting regarding open the website. 
+
+### Some of important structure has been lead to unfortunate loss that has lead to the website is no longer responsitive but it hasn't changed the outlook of the website. This will be changed in a short future,
+
+### Thanks for your understanding,
+
+### Your Developer,
+
+### Gustav 
+#
+
 # Deployment 
+
+#### The site was deployed on GITHUB pages. The steps to deploy are as follows: 
+- In the GITHUB repsitory, navigate to the settings tabs.
+- From the source section drop-down menu, select the master branch  
+-Once the branch has been selected, the page provided the link to completed website. 
+
+
 
 # Credits 
 
