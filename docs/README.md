@@ -206,14 +206,20 @@ As I was tested the CSS file it stated: "Too many values or values are not recog
 # Deployment 
 
 #### The site was deployed on GITHUB pages. The steps to deploy are as follows: 
+
 - In the GITHUB repsitory, navigate to the settings tabs.
 - From the source section drop-down menu, select the master branch  
 -Once the branch has been selected, the page provided the link to completed website. 
 
 
-
 # Credits 
 
 ## Content 
+The website got the inspiration and got the structure from the [Love Running](https://8000-gustavfluur-loverunning-g8lk9813sdb.ws-eu31.gitpod.io/). 
+
+Sites that gave me the support for the website were: 
+[w3schools](https://www.w3schools.com/).
 
 ## Media 
+
+Images for the project was taken from the [Pexels](https://www.pexels.com/sv-se/).
