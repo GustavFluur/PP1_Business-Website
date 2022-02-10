@@ -9,7 +9,13 @@ The target audience is mainly small-and-midsized organizations that are having a
 #
 ### *Disclaimer*: Some of code have been changed to do some late changes due some unexpected errors from validation and troubleshooting regarding open the website. 
 
-### Some of important structure has been lead to unfortunate loss that has lead to the website is no longer responsitive but it hasn't changed the outlook of the website. This will be changed in a short future,
+### Some of important structure has been lead to unfortunate loss that has lead to the website is no longer responsitive but it hasn't changed the outlook of the website. 
+
+#
+#### "My chrome browser crashed and I didn't save my changes so my website isn't responsive any more. In addition the workspace didn't open for a while and the cause for it was unknown but I lost a valued time there handing in the project with outstanding quality I wished for"
+#
+
+### This will be changed in a short future,
 
 ### Thanks for your understanding,
 
