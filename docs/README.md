@@ -144,22 +144,44 @@ A possible change of the business ethos - and about section to create a clear me
 
 #### Solved Bugs
 
+Wrong attribute within contact.html file: 
+
+< input type="phone" id="phone" name="phone_number" required >
+
+* The type was changed to number.
 
 # Validator Testing 
 
-- HTML 
+## HTML 
+
+No error were found within the HTML files expect for some warnings that won't distrube the overall website structure: 
+
+  - Two warnings in the index.html file
+  - Three warnings in services.html file
+  - Three warnings in contact.html file  
 
 
-- CSS 
+## CSS 
+
+As I was tested the CSS file it stated: "Too many values or values are not recognized": it had 53 error due to over written code this was fixed thanks to css validator. 
 
 
-- Accessbility 
+## Accessbility 
 
-Due to the lack of time to adjust the settings from Swedish to English it scores says in Swedish. direct translation on the relevant ones will be found here:
+ #### Due to the lack of time to adjust the settings from Swedish to English it scores says in Swedish. direct translation on the relevant ones will be found here:
 
-- Prestanda = Performance 
+- Prestanda = Performance  
 - Tillgänglighet = Accessibility
 - Bästa Metoder = Best Practices 
 
-![Accessibility Score](/docs/images/accessiblity-score.png)
+![Accessibility Score](/docs/images/accessiblity-score.png)![Metrics](/docs/images/metrics.png)
 
+# Unfixed Bugs
+
+# Deployment 
+
+# Credits 
+
+## Content 
+
+## Media 

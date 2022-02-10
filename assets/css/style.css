@@ -88,7 +88,6 @@ ul {
     letter-spacing: 4px;
     color: white;
     text-decoration: solid;
-    text-shadow: red;
 }
 
 
@@ -267,7 +266,7 @@ header {
     max-height: 1500px;
     position: absolute;
     left: 28%;
-    padding: 0 auto;
+    padding: 0;
     text-align: center;
 }
 
@@ -373,8 +372,8 @@ margin-bottom: 5px;
         float: right;
         margin-left: 5px;
         margin-bottom: 5px;
-        line-height: 5px auto;
-        font-size: 8px auto;
+        line-height: 5px;
+        font-size: 10px;
     }
 
     #logo {
@@ -389,8 +388,8 @@ margin-bottom: 5px;
     h1 {
         margin-left: 0;
         margin-bottom: 20px;
-        line-height: 80px auto;
-        font-size: 250px auto;
+        line-height: 80px;
+        font-size: 150px;
         text-align: center;
         width: 100%;
     }
@@ -410,36 +409,36 @@ margin-bottom: 5px;
     .left-about-heading h3 {
         width: 100%;
         text-align: center;
-        font-size: 55px auto;
+        font-size: 55px;
         margin-left: 10px;
-        line-height: 15px auto;
+        line-height: 15px;
         margin-top: auto;
     }
 
     .left-about-heading h4 {
         text-align: center;
-        padding: 0 20 px;
-        font-size: 45px auto; 
-        line-height: 35px auto;
+        padding: 0;
+        font-size: 45px; 
+        line-height: 35px;
         margin-top: 15px;
     }
 
     #about h2 {
         width: 100%;
         text-align: center;
-        font-size: 15px auto;
+        font-size: 15px;
         height: auto;
     }
 
     #about h4 {
         text-align: center;
-        padding: 0 20 px;
-        font-size: 12px auto;
+        padding: 0;
+        font-size: 12px;
     }
 
 
     header {
-            width: 100% auto;
+            width: 100%;
             clear: both; 
             height: 1500px; 
             padding: 0; 
@@ -450,10 +449,10 @@ margin-bottom: 5px;
         }
 
     #ethos-image {
-        width: 100% auto;
+        width: 100%;
         clear: both;
         padding: 0;
-        height: 1200px auto;
+        height: 1200px;
         background-size: cover;
         float: inherit;
         object-fit: cover;
@@ -463,18 +462,18 @@ margin-bottom: 5px;
     #logo-service {
         clear:left;
         float:left;
-        margin-left: 30px auto;
-        margin-bottom: 20px auto;
-        line-height: 25px auto;
-        font-size: 60px auto;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+        font-size: 60px;
         text-align: center;
     }
 
     #services-category {
         width: 100%;
-        height: 1200px auto;
+        height: auto;
         margin: 0 auto;
-        line-height: 20px auto;
+        line-height: 20px;
         clear: right;
         margin-bottom: 50px;
         color: black;
@@ -482,11 +481,11 @@ margin-bottom: 5px;
     }
 
     #services-image {
-        width: 1200px;
+        width: 100%;
         clear: both;
         padding: 0;
-        height: 1200px auto;
-        margin: 0 auto;
+        height: auto;
+        margin: 0;
         float: inherit; 
         background-size: cover;
         object-fit: cover; 
@@ -591,21 +590,21 @@ margin-bottom: 5px;
     }
 
     #services-image { 
-        width: 400px auto;
+        width: 100%;
         clear: both;
         padding: 0;
-        height: 400px auto;
-        margin: 0 auto;
+        height: auto;
+        margin: 0;
         float: inherit;
         background-size: cover;
     }
 
     #contact-image {
-        width: 400px auto;
+        width: 100%;
         clear: both;
         padding: 0;
-        height: 400px auto;
-        margin: 0 auto;
+        height: auto;
+        margin: 0;
         float: inherit;
         background-size: cover;
         object-fit: cover; 
@@ -624,7 +623,7 @@ margin-bottom: 5px;
     }
     .interesting h4 {
         text-align: center;
-        padding: 0 20 px;
+        padding: 0;
         font-size: 10px;
     }
     .signup-form {
@@ -731,13 +730,13 @@ margin-bottom: 5px;
     #business-ethos {
         width: 100%;
         height: 600px;
-        margin: 0 auto;
+        margin: 0;
     }
 
     #business-ethos h3 {
         color: black;
         text-align: center;
-        font-size: auto;
+        font-size: 15px;
         text-transform: uppercase;
         width: 100%;
         height: auto;
@@ -759,7 +758,7 @@ margin-bottom: 5px;
 
     .left-about-heading h4 {
         text-align: center;
-        padding: 0 20 px;
+        padding: 0;
         font-size: 12px; 
         line-height: 35px;
         margin-top: 12px;
@@ -773,16 +772,16 @@ margin-bottom: 5px;
 
     #about h4 {
         text-align: center;
-        padding: 0 20 px;
+        padding: 0;
         font-size: 10px;
-        margin-top: 10px auto;
+        margin-top: 10px;
     }
 
 
     header {
         width: 100%;
         clear: both; 
-        height: 400px; 
+        height: auto; 
         padding: 0; 
         background-size: cover;
         float: none;
@@ -804,7 +803,7 @@ margin-bottom: 5px;
         float:left;
         margin-left: 30px;
         margin-bottom: 20px;
-        line-height: 25px auto;
+        line-height: 25px;
         font-size: 60px;
         text-align: center;
     }
@@ -957,7 +956,7 @@ margin-bottom: 5px;
     }
     .interesting h4 {
         text-align: center;
-        padding: 0 20 px;
+        padding: 0;
         font-size: 10px;
     }
     .signup-form {
@@ -1053,8 +1052,8 @@ margin-bottom: 5px;
     h1 {
         margin-left: 0;
         margin-bottom: 20px;
-        line-height: 80px auto;
-        font-size: 250px auto;
+        line-height: 80px;
+        font-size: 250px;
         text-align: center;
         width: 100%;
     }
@@ -1062,7 +1061,7 @@ margin-bottom: 5px;
     #business-ethos {
         width: 100%;
         height: auto;
-        margin: 0 auto;
+        margin: 0;
     }
 
     .left-about-heading, #about {
@@ -1076,12 +1075,12 @@ margin-bottom: 5px;
         font-size: 18px;
         margin-left: 10px;
         line-height: 5px;
-        margin-top: auto;
+        margin-top: 0;
     }
 
     .left-about-heading h4 {
         text-align: center;
-        padding: 0 20 px;
+        padding: 0;
         font-size: 15px; 
         line-height: 35px;
         margin-top: 15px;
@@ -1095,7 +1094,7 @@ margin-bottom: 5px;
 
     #about h4 {
         text-align: center;
-        padding: 0 20 px;
+        padding: 0;
         font-size: 12px;
     }
 
@@ -1125,7 +1124,7 @@ margin-bottom: 5px;
         float:left;
         margin-left: 30px;
         margin-bottom: 20px;
-        line-height: 25px auto;
+        line-height: 25px;
         font-size: 60px;
         text-align: center;
     }
@@ -1251,8 +1250,8 @@ margin-bottom: 5px;
     #services-image { 
         width: 100%;
         padding: 0;
-        height: 500px auto;
-        margin: 0 auto;
+        height: 500px;
+        margin: 0;
         float: inherit;
     }
 
@@ -1279,7 +1278,7 @@ margin-bottom: 5px;
     }
     .interesting h4 {
         text-align: center;
-        padding: 0 20 px;
+        padding: 0;
         font-size: 10px;
     }
     .signup-form {
@@ -1365,7 +1364,7 @@ margin-bottom: 5px;
     #logo {
         margin-left: 30px;
         margin-bottom: 20px;
-        line-height: 25px auto;
+        line-height: 25px;
         font-size: 25px;
         text-align: center;
     }
@@ -1382,7 +1381,7 @@ margin-bottom: 5px;
     #business-ethos {
         width: 100%;
         height: 750px;
-        margin: 0 auto;
+        margin: 0;
     }
 
     .left-about-heading, #about {
@@ -1401,7 +1400,7 @@ margin-bottom: 5px;
 
     .left-about-heading h4 {
         text-align: center;
-        padding: 0 20 px;
+        padding: 0;
         font-size: 15px; 
         line-height: 35px;
         margin-top: 15px;
@@ -1415,7 +1414,7 @@ margin-bottom: 5px;
 
     #about h4 {
         text-align: center;
-        padding: 0 20 px;
+        padding: 0;
         font-size: 12px;
     }
 
@@ -1444,7 +1443,7 @@ margin-bottom: 5px;
         float:left;
         margin-left: 30px;
         margin-bottom: 20px;
-        line-height: 25px auto;
+        line-height: 25px;
         font-size: 60px;
         text-align: center;
     }
@@ -1452,7 +1451,7 @@ margin-bottom: 5px;
     #services-category {
         width: 100%;
         height: auto;
-        margin: 0 auto;
+        margin: 0;
         line-height: 20px;
         clear: right;
         margin-bottom: 50px;
@@ -1600,7 +1599,7 @@ margin-bottom: 5px;
     }
     .interesting h4 {
         text-align: center;
-        padding: 0 20 px;
+        padding: 0;
         font-size: 10px;
     }
     .signup-form {
@@ -1685,7 +1684,7 @@ margin-bottom: 5px;
     #logo {
         margin-left: 0;
         margin-bottom: 0;
-        line-height: 25px auto;
+        line-height: 25px;
         font-size: 25px;
         text-align: center;
         width: 100%;
@@ -1724,7 +1723,7 @@ margin-bottom: 5px;
 
     .left-about-heading h4 {
         text-align: center;
-        padding: 0 20 px;
+        padding: 0;
         font-size: 15px; 
         line-height: 35px;
         margin-top: 15px;
@@ -1738,7 +1737,7 @@ margin-bottom: 5px;
 
     #about h4 {
         text-align: center;
-        padding: 0 20 px;
+        padding: 0;
         font-size: 12px;
     }
 
@@ -1767,7 +1766,7 @@ margin-bottom: 5px;
         float:left;
         margin-left: 30px;
         margin-bottom: 20px;
-        line-height: 25px auto;
+        line-height: 25px;
         font-size: 60px;
         text-align: center;
     }
@@ -1786,8 +1785,8 @@ margin-bottom: 5px;
     #services-image {
         width: 100%;
         padding: 0;
-        height: 1200px auto;
-        margin: 0 auto;
+        height: 1200px;
+        margin: 0;
         background-size: cover;
         object-fit: cover;
     }
@@ -1895,7 +1894,7 @@ margin-bottom: 5px;
         clear: both;
         padding: 0;
         height: 400px;
-        margin: 0 auto;
+        margin: 0;
         float: inherit;
         background-size: cover;
     }
@@ -1905,7 +1904,7 @@ margin-bottom: 5px;
         clear: both;
         padding: 0;
         height: 400px;
-        margin: 0 auto;
+        margin: 0;
         float: inherit;
         background-size: cover;
     }
@@ -1923,7 +1922,7 @@ margin-bottom: 5px;
     }
     .interesting h4 {
         text-align: center;
-        padding: 0 20 px;
+        padding: 0;
         font-size: 10px;
     }
     .signup-form {
