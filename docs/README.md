@@ -154,3 +154,7 @@ A possible change of the business ethos - and about section to create a clear me
 
 
 - Accessbility 
+
+![Acessibility](/)
+
+![Acessibility](/)
